@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-sangani&label=Profile%20views&color=0e75b6&style=flat" alt="raj-sangani" /> </p>
 
-- 🔭 I’m currently working on ReAtmos
+- 🔭 I’m currently working on my project HouseMates
 
 - 🌱 I’m currently learning **Machine Learning , Flutter,**
 
