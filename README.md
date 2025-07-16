@@ -1,6 +1,6 @@
 <img align="center" src="https://elements-cover-images-0.imgix.net/f8281122-dc2f-44ed-813e-8fb5fab0a416?auto=compress%2Cformat&fit=max&w=1170&s=26c155905dd0f6f2371f06cb04a0ce8e"></br>
 <h1 align="center">Hi 👋, I'm Raj Sangani</h1>
-<h3 align="center">A passionate Full Stack Devloper Data Analyst from India</h3>
+<h3 align="center">A passionate Full Stack Devloper from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-sangani&label=Profile%20views&color=0e75b6&style=flat" alt="raj-sangani" /> </p>
